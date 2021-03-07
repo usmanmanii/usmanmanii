@@ -1,4 +1,6 @@
-# Hi I'm Muhammad Usman 👋
+<h2 align="center"> A.o.A! I'm Muhammad Usman <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
+
+<p align="center">
 
 This is the place where I opensource stuff and break things :rofl:
 
@@ -6,6 +8,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 I’m currently learning and understaning QURAN Pak.
 - 💬 Ask me about anything related to Javascript/Typescript or Angular/React/Express etc.
 
+</p>
 
 # 📫 How to reach me
 
@@ -40,12 +43,13 @@ This is the place where I opensource stuff and break things :rofl:
  
 </p>
 
-📊 **This week I spent my time on**
+### Portfolio
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=usmanmanii&hide_title=true&hide_border=true&langs_count=5)
+> *pending...*
 
 <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=usmanmanii&amp;show_icons=true" alt="GitHub Stats"></p>
+
+![usman's github stats](https://github-readme-stats.vercel.app/api?username=usmanmanii&show_icons=true&theme=dracula&hide=stars,issues)
 
 # Promote
 <p><img src="https://img.shields.io/badge/NgXoft%20Solution-%3B)-%23a000b5" alt="NgXoft Solution"></p>
