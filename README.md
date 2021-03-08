@@ -1,6 +1,6 @@
 <h2 align="center"> A.o.A! I'm Muhammad Usman <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 
-<p align="center">
+<p align="left" style="float:left">
 
 This is the place where I opensource stuff and break things :rofl:
 
@@ -8,6 +8,9 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 I’m currently learning and understaning QURAN Pak.
 - 💬 Ask me about anything related to Javascript/Typescript or Angular/React/Express etc.
 
+</p>
+<p align="right">
+  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="M_usman_working">
 </p>
 
 # 📫 How to reach me
