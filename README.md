@@ -1,6 +1,6 @@
 <h2 align="center"> A.o.A! I'm Muhammad Usman <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 
-<p align="left" style="float:left">
+<p align="left" style="float:left;width: 30%;">
 
 This is the place where I opensource stuff and break things :rofl:
 
@@ -10,7 +10,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 </p>
 <p align="right">
-  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="M_usman_working">
+  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="M_usman_working" style="width: 25%;">
 </p>
 
 # 📫 How to reach me
