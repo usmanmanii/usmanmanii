@@ -1,8 +1,9 @@
 <h2 align="center"> A.o.A! I'm Muhammad Usman <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 
 
-<img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"   width="25%"/>
+<img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"   width="35%"/>
 <h2>⚡️ A Few Quick Facts</h2>
+<h4>This is the place where I opensource stuff and break things :rofl:</h4>
 <ul>
 <li>🔭 I’m currently working on something cool :wink: </li>
 <li>🌱 I’m currently learning and understaning QURAN Pak.</li>
