@@ -1,6 +1,6 @@
 <h2 align="center"> A.o.A! I'm Muhammad Usman <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 
-<p align="left" style="float:left;width: 30%;">
+<p align="center">
 
 This is the place where I opensource stuff and break things :rofl:
 
@@ -9,10 +9,9 @@ This is the place where I opensource stuff and break things :rofl:
 - 💬 Ask me about anything related to Javascript/Typescript or Angular/React/Express etc.
 
 </p>
-<p align="right">
-  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="M_usman_working" style="width: 25%;">
-</p>
-
+ <p align="right">
+          <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="M_usman_working" width="25%">
+        </p>
 # 📫 How to reach me
 
 <p><a href="https://www.linkedin.com/in/muhammad-usman-a587a611b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/m_usman_qurashi/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://stackoverflow.com/users/10800626/muhammad-usman"><img src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25></a> </p>
@@ -39,9 +38,9 @@ This is the place where I opensource stuff and break things :rofl:
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-__-red" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/flutter-__-green" />
-  <img alt="ionic" src="https://img.shields.io/badge/ionic-__-lightgrey" />
+  <img alt="Flutter" src="https://img.shields.io/badge/flutter-ea2845?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="ionic" src="https://img.shields.io/badge/-ionic-ea2845?style=flat-square&logo=ionic&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
  
 </p>
