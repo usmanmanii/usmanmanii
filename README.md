@@ -1,17 +1,14 @@
 <h2 align="center"> A.o.A! I'm Muhammad Usman <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /></h1>
 
-<p align="center">
 
-This is the place where I opensource stuff and break things :rofl:
+<img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"   width="25%"/>
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I’m currently working on something cool :wink: </li>
+<li>🌱 I’m currently learning and understaning QURAN Pak.</li>
+<li>💬 Ask me about anything related to Javascript/Typescript or Angular/React/Express etc.</li>
+</ul>
 
-- 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning and understaning QURAN Pak.
-- 💬 Ask me about anything related to Javascript/Typescript or Angular/React/Express etc.
-
-</p>
- <p align="right">
-          <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="M_usman_working" width="25%">
-        </p>
 # 📫 How to reach me
 
 <p><a href="https://www.linkedin.com/in/muhammad-usman-a587a611b"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/m_usman_qurashi/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://stackoverflow.com/users/10800626/muhammad-usman"><img src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" height=25></a> </p>
