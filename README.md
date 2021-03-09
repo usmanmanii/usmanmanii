@@ -53,8 +53,11 @@
 
 <p> These are currently the languages that I am using most in my projects hosted on GitHub ⤵ </p>
 
-<p align="right"> ![Muhammad Usman](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanmanii) </p>
-<p align="left"> ![Muhammad Usman](https://github-readme-stats-chi-ten.vercel.app/api/top-langs/?username=usmanmanii&layout=compact) </p>
+<!--
+ ![Muhammad Usman](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanmanii)
+-->
+
+![Muhammad Usman](https://github-readme-stats-chi-ten.vercel.app/api/top-langs/?username=usmanmanii&layout=compact)
 
 
 
