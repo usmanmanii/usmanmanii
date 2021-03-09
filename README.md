@@ -53,7 +53,7 @@
 
 <p> These are currently the languages that I am using most in my projects hosted on GitHub ⤵ </p>
 
-[![Muhammad Usman](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanmanii)]
+[![Muhammad Usman](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanmanii)
 
 <hr/>
 
