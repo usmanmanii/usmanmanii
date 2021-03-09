@@ -51,5 +51,11 @@
 
 ![usman's github stats](https://github-readme-stats.vercel.app/api?username=usmanmanii&show_icons=true&theme=dracula&hide=stars,issues)
 
+<p> These are currently the languages that I am using most in my projects hosted on GitHub ⤵ </p>
+
+[![Muhammad Usman](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanmanii)]
+
+<hr/>
+
 # Promote
 <p><a href="https://ngxoft-solution.business.site/"><img src="https://img.shields.io/badge/NgXoft%20Solution-%3B)-%23a000b5" alt="NgXoft Solution"></a></p>
