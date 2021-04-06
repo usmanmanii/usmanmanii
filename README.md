@@ -64,4 +64,4 @@
 <hr/>
 
 # Promote
-<p><a href="https://ngxoft-solution.business.site/"><img src="https://ibb.co/YZ1Lf3s" alt="NgXoft Solution"></a> <a href="https://www.linkedin.com/company/ngxoft-solutions"><img src="https://img.shields.io/badge/linkedin-ngxoft-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=c403f5" height=25></a> <a href="https://www.facebook.com/ngxoft/"><img src="https://img.shields.io/badge/Facebook-ngxoft-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a></p>
+<p><a href="https://ngxoft-solution.business.site/"><img src="https://i.ibb.co/C2YHVzG/ngxoft-btn.png" alt="NgXoft Solution"></a> <a href="https://www.linkedin.com/company/ngxoft-solutions"><img src="https://img.shields.io/badge/linkedin-ngxoft-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=c403f5" height=25></a> <a href="https://www.facebook.com/ngxoft/"><img src="https://img.shields.io/badge/Facebook-ngxoft-%230077B5.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a></p>
