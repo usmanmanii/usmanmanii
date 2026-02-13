@@ -45,7 +45,7 @@
 
 ### Portfolio
 
-> *pending...*
+> <a href="https://mr-usman-portfolio-ngxoft.vercel.app">Click me</a> 
 
 <h2>GitHub Stats</h2>
 
