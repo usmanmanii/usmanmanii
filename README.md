@@ -7,7 +7,7 @@
 <ul>
 <li>🔭 I’m currently working on something cool :wink: </li>
 <li>🌱 I’m currently learning and understaning QURAN Pak.</li>
-<li>💬 Ask me about anything related to Javascript/Typescript or Angular/React/Express etc.</li>
+<li>💬 Ask me about anything related to AI/Python/Javascript/Typescript or Angular/React/Node.js/Nest.js, software development, IT, AI etc.</li>
 </ul>
 
 # 📫 How to reach me
