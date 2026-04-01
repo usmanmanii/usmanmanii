@@ -47,9 +47,6 @@
 
 > <a href="https://mr-usman-portfolio-ngxoft.vercel.app">Click me</a> 
 
-<h2>GitHub Stats</h2>
-
-![usman's github stats](https://github-readme-stats.vercel.app/api?username=usmanmanii&show_icons=true&theme=dracula&hide=stars,issues)
 
 <p> These are currently the languages that I am using most in my projects hosted on GitHub ⤵ </p>
 
